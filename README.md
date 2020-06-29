@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+## Packages Used 
+
+The Following Dart And Flutter Packages Has Been Used In The Project.
+```dart
+import 'package:floating_search_bar/floating_search_bar.dart';
+```
+
 ## GitHub 
 
 If You Want To Create A New Repository In Your GitHub Then Do Following Steps :
